@@ -1,0 +1,1 @@
+module.exports = [{"isId":true,"priority":100000.0007,"key":"map","style":{top:"50dp",animate:true,regionFit:true,userLocation:false,region:{latitude:Alloy.Globals.LATITUDE_BASE,longitude:Alloy.Globals.LONGITUDE_BASE,latitudeDelta:0.1,longitudeDelta:0.1,},}}];

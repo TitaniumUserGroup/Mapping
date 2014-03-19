@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0005,"key":"Annotation","style":{animate:true,pincolor:Titanium.Map.ANNOTATION_RED,leftButton:"/images/delete.png",}}];
